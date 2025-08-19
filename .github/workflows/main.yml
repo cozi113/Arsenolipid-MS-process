@@ -1,4 +1,4 @@
-ms-ai-pipeline/
+Arsenolipid-MS-process/
 ├─ data/
 │  ├─ raw/            # 原始 mzML/mzXML 放这里
 │  ├─ interim/        # 中间产物（峰表、对齐前）
