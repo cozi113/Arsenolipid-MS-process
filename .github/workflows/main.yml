@@ -1,0 +1,2 @@
+mkdir -p scripts
+python scripts/setup_dirs.py
