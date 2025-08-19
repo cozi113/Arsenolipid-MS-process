@@ -1,4 +1,3 @@
-仓库结构（建议直接照抄）
 ms-ai-pipeline/
 ├─ data/
 │  ├─ raw/            # 原始 mzML/mzXML 放这里
