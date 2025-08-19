@@ -1,0 +1,20 @@
+site_name: Arsenolipid-MS-process
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - content.code.copy
+    - search.highlight
+plugins:
+  - search
+  - minify:
+      minify_html: true
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+nav:
+  - Home: index.md
+  - Pipeline: pipeline.md
+  - Results: results.md

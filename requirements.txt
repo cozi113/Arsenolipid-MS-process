@@ -1,0 +1,13 @@
+pymzml
+matchms
+spectrum-utils
+numpy
+pandas
+scikit-learn
+scipy
+umap-learn
+matplotlib
+mkdocs
+mkdocs-material
+mkdocs-minify-plugin
+mkdocs-glightbox
